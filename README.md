@@ -4,7 +4,4 @@
 <div id="badges" align = "center">
   <img src="https://www.codewars.com/users/DeadYokai/badges/micro" alt="Codewars"/>
 </div>
-<div id="content" align = "center">
-  <p>Love coding and shity stuff</p>
-  <p>(fuck java, all my homies use c++/rust)</p>
-</div>
+
