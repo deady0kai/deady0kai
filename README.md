@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+  <img src="https://tenor.com/view/soviet-cat-sovicat-soviet-ussr-cat-gif-13130175187313145119" width="100" />
 </div>
 <div id="badges" align = "center">
-  <a href = "https://t.me/deady0kai"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="LinkedIn Badge"/></a>
+  <img src="https://www.codewars.com/users/DeadYokai/badges/large" alt="Codewars"/>
 </div>
 <div id="content" align = "center">
-  <p font = "Roboto regular">Love coding and shity stuff</p>
+  <p>Love coding and shity stuff</p>
   <p>(fuck java, all my homies use c++/rust)</p>
 </div>
