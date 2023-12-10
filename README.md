@@ -3,5 +3,6 @@
 </div>
 <div id="badges" align = "center">
   <img src="https://www.codewars.com/users/DeadYokai/badges/micro" alt="Codewars"/>
+  <p>need time</p>
 </div>
 
