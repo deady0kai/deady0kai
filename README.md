@@ -1,8 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/9_ElPm_8AXQAAAAd/bongo-cat-russian.gif" width="100" />
-</div>
+
 <div id="badges" align = "center">
-  <img src="https://www.codewars.com/users/DeadYokai/badges/micro" alt="Codewars"/>
-  <p>need time</p>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <p>need time to sleep</p>
 </div>
 
