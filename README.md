@@ -6,5 +6,5 @@
 <div id="bruh" align="center">
   <br>
   <p>Need time to sleep</p>
-  <p>Python/C++</p>
+  <p>Python</p>
 </div>
