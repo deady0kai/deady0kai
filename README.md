@@ -6,6 +6,6 @@
 </div>
 <div id="bruh" align="center">
   <br>
-  <p>Need time to sleep</p>
+  <p>fuck exams, al my hommies use rest</p>
   <p>Python</p>
 </div>
