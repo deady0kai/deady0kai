@@ -4,8 +4,3 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
-<div id="bruh" align="center">
-  <br>
-  <p>fuck exams, al my hommies use rest</p>
-  <p>Python</p>
-</div>
